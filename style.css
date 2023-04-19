@@ -1,13 +1,29 @@
-body{
+body {
     font-family: 'Chivo Mono', monospace;
 
 }
 
-h1{
+h1 {
     font-size: 40px;
     color: coralf;
 
 }
-.oranage-color{
+
+.oranage-color {
     color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half_width {
+    width: 50%;
+    padding-left: 5%;
+
+}
+
+.half_width image {
+    width: 2%;
+    padding-bottom: 45%;
 }
