@@ -30,8 +30,12 @@ section {
 .link_button {
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 30px;
+    padding: 10px 30px 10px 5px;
     color: white;
     font-weight: 200;
     border-radius: 5px;
+}
+
+.ant_man {
+    width: 40%;
 }
